@@ -18,21 +18,21 @@ Currently, **IWAR** is in **[alpha phase]** and is available for download throug
 
 ###TECHNICAL DETAILS
 
-Dependencies
+**Dependencies**
 
-Arma 3 - version [1.52 o mayor] - Bohemia Interactive
-RHS: Armed Forces Of The Russian Federation - 0.3.9.1 - [Red Hammer Studios](http://rhsmods.org)
-RHS: United States Armed Forces - 0.3.9.1 - [Red Hammer Studios](http://rhsmods.org)
+- Arma 3 - version [1.52 o mayor] - Bohemia Interactive
+- RHS: Armed Forces Of The Russian Federation - 0.3.9.1 - [Red Hammer Studios](http://www.rhsmods.org)
+- RHS: United States Armed Forces - 0.3.9.1 - [Red Hammer Studios](http://www.rhsmods.org)
 
 
 
-Optional:
+**Optional**
 
-Tactical Beards - 3.0 - [Armaholic](http://armaholic.com)
+- Tactical Beards - 3.0 - [Armaholic](http://www.armaholic.com)
 
 
 ###CHANGELOG
-24/11/2015
+**24/11/2015
 - +Added UI unit icons in Editor
 - +Added UI uniform icons in Arsenal
 - +Added NVS to Elite Team Leader
