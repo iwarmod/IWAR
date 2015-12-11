@@ -1,6 +1,6 @@
-<center><img src="http://www.clanusml.net/media/iwar1024x512.jpg" width="50%" alt="IWAR Logo" style="margin-bottom:10px;" class="img-responsive"></center>
+<p align="center"><img src="http://www.clanusml.net/media/iwar1024x512.jpg" width="50%" alt="IWAR Logo" style="margin-bottom:10px;" </p>
 
-<p align="center"><strong>Version</strong> Alpha 0.1.7 | <strong>Size</strong> 150BM | <strong>Status</strong> Public Alpha 
+<p align="center"><strong>Version</strong> Alpha 0.1.7 | <strong>Size</strong> 150MB | <strong>Status</strong> Public Alpha 
 
 <p align="center">
     Homepage: http://www.clanusml.net/iwar-eng.html
@@ -33,16 +33,16 @@ Tactical Beards - 3.0 - [Armaholic](http://armaholic.com)
 
 ###CHANGELOG
 24/11/2015
-+Added UI unit icons in Editor
-+Added UI uniform icons in Arsenal
-+Added NVS to Elite Team Leader
-+Added three (3) officials (desert, urban, woodland)
-+Added Static M2 classname "aif_Static_M2"
-+Added Static M2 Tripod classname "aif_Static_M2_MiniTripod"
-+Added Static MK19 classname "aif_Static_Mk19_TriPod"
-+Added Mortero classname "aif_Static_mortar"
-+Added Static Launcher AA classname "aif_Static_AA"
-+Added Static Launcher AT classname "aif_Static_AT"
->Replaced english voices units with Persian voices
->Replaced spanish unit names with english
-*Fixed multicam uniform bug not showing correctly
+- +Added UI unit icons in Editor
+- +Added UI uniform icons in Arsenal
+- +Added NVS to Elite Team Leader
+- +Added three (3) officials (desert, urban, woodland)
+- +Added Static M2 classname "aif_Static_M2"
+- +Added Static M2 Tripod classname "aif_Static_M2_MiniTripod"
+- +Added Static MK19 classname "aif_Static_Mk19_TriPod"
+- +Added Mortero classname "aif_Static_mortar"
+- +Added Static Launcher AA classname "aif_Static_AA"
+- +Added Static Launcher AT classname "aif_Static_AT"
+- >Replaced english voices units with Persian voices
+- >Replaced spanish unit names with english
+- *Fixed multicam uniform bug not showing correctly
