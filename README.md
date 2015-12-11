@@ -3,12 +3,12 @@
 <p align="center"><strong>Version</strong> Alpha 0.1.7 | <strong>Size</strong> 150MB | <strong>Status</strong> Public Alpha 
 
 <p align="center">
-Visit [Homepage](http://www.clanusml.net/iwar-eng.html) for more info
+Visit http://www.clanusml.net/iwar-eng.html for more info
 </p>
 
 ###WHAT IS IWAR?
 
-**Irregular Warfare** is an unofficial addon for Arma 3 - Bohemia Interactive which includes **irregular or insurgent forces** (yes, another one) equiped with weapons and vehicles from RHS Escalation mod. While there are already other Addons with such content, I decided to create this to suit our needs within **U.S.M.L. OPs**.
+**Irregular Warfare** is an unofficial addon for Arma 3 - Bohemia Interactive which includes **irregular or insurgent forces** (yes, another one) equiped with weapons and vehicles from [RHS Escalation mod](http://www.rhsmods.org) . While there are already other Addons with such content, I decided to create this to suit our needs within **[U.S.M.L. OPs](http://clanusml.net/usmlops.html)**. 
 
 In addition, **IWAR** is **[ALiVE](http://www.alivemod.com) compatible** and so far consists of one faction; however, the idea is to add more as additional content is created within our internal campaigns.
 
