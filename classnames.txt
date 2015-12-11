@@ -1,0 +1,55 @@
+FACTION:
+				usml_aif - Armed Islamic Front
+
+AIF CLASS NAMES:
+
+MEN
+Front Line
+-aif_oficial
+-aif_oficial2
+-aif_oficial3
+-aif_support_MG
+-aif_support_AA
+-aif_specialist_Ex
+-aif_rifleman
+-aif_riflemanAK103
+-aif_riflemanM4
+-aif_support_AT
+-aif_riflemanGL
+-aif_TeamLeader
+-aif_driver
+-aif_sniper
+-aif_riflemanGLM4
+-aif_support_rpg26
+-aif_UAV
+-aif_mortar
+Excecutioners
+aif_TeamLeader_G
+aif_medic_G
+aif_rifleman_G
+aif_support_rpg26_G
+
+VEHICLES
+-aif_truck_ural
+-aif_truck
+-aif_offroad
+-aif_offroad2
+-aif_armed
+-aif_car
+
+APC
+-aif_apc
+
+ARMORED
+-aif_t72b
+
+ANTI-AIR
+-aif_zu234v
+
+STATIC WEAPONS
+-aif_Static_M2
+-aif_Static_M2_MiniTripod
+-aif_Static_Mk19_TriPod
+-aif_Static_mortar
+-aif_Static_AA
+-aif_Static_AT
