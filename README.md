@@ -10,7 +10,7 @@
 
 **Irregular Warfare** is an unofficial addon for Arma 3 - Bohemia Interactive which includes **irregular or insurgent forces** (yes, another one) equiped with weapons and vehicles from RHS Escalation mod. While there are already other Addons with such content, I decided to create this to suit our needs within **U.S.M.L. OPs**.
 
-In addition, **IWAR** is **ALiVE compatible** and so far consists of one faction; however, the idea is to add more as additional content is created within our internal campaigns.
+In addition, **IWAR** is **[ALiVE](http://www.alivemod.com) compatible** and so far consists of one faction; however, the idea is to add more as additional content is created within our internal campaigns.
 
 
 Currently, **IWAR** is in **[alpha phase]** and is available for download through **Play WithSix** and **Steam Workshop** too.
@@ -29,6 +29,10 @@ Currently, **IWAR** is in **[alpha phase]** and is available for download throug
 **Optional**
 
 - Tactical Beards - 3.0 - [Armaholic](http://www.armaholic.com)
+
+**Class names**
+
+See [here](#)
 
 
 ###CHANGELOG
