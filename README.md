@@ -13,7 +13,7 @@ Visit http://www.clanusml.net/iwar-eng.html for more info
 In addition, **IWAR** is **[ALiVE](http://www.alivemod.com) compatible** and so far consists of one faction; however, the idea is to add more as additional content is created within our internal campaigns.
 
 
-Currently, **IWAR** is in **[alpha phase]** and is available for download through **Play WithSix** and **Steam Workshop** too.
+Currently, **IWAR** is in **[alpha phase]** and is available for download through [Play WithSix](http://withsix.com/p/Arma-3/mods/4tfS5TSju0aEsZM1jmaDgQ/irregular-warfare) and [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=548314738) too.
 
 
 ###TECHNICAL DETAILS
