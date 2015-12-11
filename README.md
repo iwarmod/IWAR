@@ -3,7 +3,7 @@
 <p align="center"><strong>Version</strong> Alpha 0.1.7 | <strong>Size</strong> 150MB | <strong>Status</strong> Public Alpha 
 
 <p align="center">
-    Homepage: http://www.clanusml.net/iwar-eng.html
+Visit [Homepage](http://www.clanusml.net/iwar-eng.html) for more info
 </p>
 
 ###WHAT IS IWAR?
@@ -32,11 +32,11 @@ Currently, **IWAR** is in **[alpha phase]** and is available for download throug
 
 **Class names**
 
-See [here](#)
+See [here](https://github.com/iwarmod/IWAR/blob/master/classnames.txt)
 
 
 ###CHANGELOG
-**24/11/2015
+**24/11/2015**
 - +Added UI unit icons in Editor
 - +Added UI uniform icons in Arsenal
 - +Added NVS to Elite Team Leader
